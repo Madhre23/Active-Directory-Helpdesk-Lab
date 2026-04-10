@@ -31,4 +31,4 @@ Built a home lab simulating a real IT help desk environment using Active Directo
 4. Issue resolved
 5. Ticket updated and closed
 
-## Screenshots
+
