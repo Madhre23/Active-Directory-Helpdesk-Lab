@@ -53,7 +53,7 @@ mylab.local
 - User was unable to log in to their account
 - Reset password in Active Directory to restore access
 
-<img width="1020" height="729" alt="case1fix" src="https://github.com/user-attachments/assets/96cb2a76-b6af-48e3-804d-68e59b6b86ec" />
+<img width="700" height="729" alt="case1fix" src="https://github.com/user-attachments/assets/96cb2a76-b6af-48e3-804d-68e59b6b86ec" />
 
 
 ### Case 2 – Access Issue (Group Membership)
@@ -61,13 +61,13 @@ mylab.local
 - User could not access required resources
 -Added user to the appropriate security group to grant permissions
 
-<img width="1022" height="735" alt="case2fix" src="https://github.com/user-attachments/assets/b547b93c-3d32-4648-b815-9ca6774d824a" />
+<img width="700" height="735" alt="case2fix" src="https://github.com/user-attachments/assets/b547b93c-3d32-4648-b815-9ca6774d824a" />
 ### Case 3 – Account Disabled
 
 - User account was not accessible
 -Identified account as disabled and re-enabled it in Active Directory
 
-<img width="1026" height="764" alt="case3fix" src="https://github.com/user-attachments/assets/cd6e54f1-418b-4753-b1cb-a2d49eb0e9e0" />
+<img width="700" height="764" alt="case3fix" src="https://github.com/user-attachments/assets/cd6e54f1-418b-4753-b1cb-a2d49eb0e9e0" />
 
 ## Summary
 - Built an Active Directory lab environment using Windows Server
