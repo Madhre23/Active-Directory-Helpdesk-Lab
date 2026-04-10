@@ -22,6 +22,7 @@
 * Installed the Active Directory Domain Services (AD DS) role using Server Manager
 * Enables centralized management of users, authentication, and access control
 
+<img width="700" height="735" alt="server-manager" src="https://github.com/user-attachments/assets/0506125e-3fa3-49ef-9c64-83478a479b47" />
 
 
 ## Step 4 – Created Domain Controller
@@ -32,6 +33,8 @@
 ```id="c6kv2l"
 mylab.local
 ```
+
+
 
 
 
